@@ -1,0 +1,15 @@
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\bin\Debug\net7.0\Program II.exe
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\bin\Debug\net7.0\Program II.deps.json
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\bin\Debug\net7.0\Program II.runtimeconfig.json
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\bin\Debug\net7.0\Program II.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\bin\Debug\net7.0\Program II.pdb
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.csproj.AssemblyReference.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.GeneratedMSBuildEditorConfig.editorconfig
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.AssemblyInfoInputs.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.AssemblyInfo.cs
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.csproj.CoreCompileInputs.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\refint\Program II.dll
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.pdb
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.genruntimeconfig.cache
+D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\ref\Program II.dll
