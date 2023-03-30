@@ -16,7 +16,7 @@
         {
             if (remainingPassenger[i] > maxPerBus)
             {
-                Console.WriteLine("input more than max passenger allowed");
+                Console.WriteLine("input aremore than max passenger allowed");
                 return;
             }
             if (totalPassenger + remainingPassenger[i] <= maxPerBus)
@@ -44,7 +44,7 @@
 
             if(inputFamilies == "" || inputMembers == "") {
                 Console.WriteLine("Empty input!");
-                break;
+                continue;
             }
 
             if (inputMembers != null && inputFamilies != null)
@@ -54,7 +54,7 @@
 
                 if(int.Parse(inputFamilies) != input.Count()) {
                     Console.WriteLine("Input must be equal with count of family");
-                    break;
+                    continue;
                 }
 
                 List<List<int>> bus = new List<List<int>>();

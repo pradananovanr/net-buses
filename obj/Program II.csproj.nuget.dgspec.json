@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\000. PAPA's DOC\\ENIGMA\\Job Connector\\Nawadata Solutions\\Program II\\Program II.csproj": {}
+    "E:\\Titip Dana\\Nawadata Solutions\\Program II\\net-buses\\Program II.csproj": {}
   },
   "projects": {
-    "D:\\000. PAPA's DOC\\ENIGMA\\Job Connector\\Nawadata Solutions\\Program II\\Program II.csproj": {
+    "E:\\Titip Dana\\Nawadata Solutions\\Program II\\net-buses\\Program II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\000. PAPA's DOC\\ENIGMA\\Job Connector\\Nawadata Solutions\\Program II\\Program II.csproj",
+        "projectUniqueName": "E:\\Titip Dana\\Nawadata Solutions\\Program II\\net-buses\\Program II.csproj",
         "projectName": "Program II",
-        "projectPath": "D:\\000. PAPA's DOC\\ENIGMA\\Job Connector\\Nawadata Solutions\\Program II\\Program II.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\000. PAPA's DOC\\ENIGMA\\Job Connector\\Nawadata Solutions\\Program II\\obj\\",
+        "projectPath": "E:\\Titip Dana\\Nawadata Solutions\\Program II\\net-buses\\Program II.csproj",
+        "packagesPath": "C:\\Users\\SILVER\\.nuget\\packages\\",
+        "outputPath": "E:\\Titip Dana\\Nawadata Solutions\\Program II\\net-buses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SILVER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

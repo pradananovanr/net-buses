@@ -13,3 +13,18 @@ D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\
 D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.pdb
 D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\Program II.genruntimeconfig.cache
 D:\000. PAPA's DOC\ENIGMA\Job Connector\Nawadata Solutions\Program II\obj\Debug\net7.0\ref\Program II.dll
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\bin\Debug\net7.0\Program II.exe
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\bin\Debug\net7.0\Program II.deps.json
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\bin\Debug\net7.0\Program II.runtimeconfig.json
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\bin\Debug\net7.0\Program II.dll
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\bin\Debug\net7.0\Program II.pdb
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.csproj.AssemblyReference.cache
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.GeneratedMSBuildEditorConfig.editorconfig
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.AssemblyInfoInputs.cache
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.AssemblyInfo.cs
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.csproj.CoreCompileInputs.cache
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.dll
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\refint\Program II.dll
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.pdb
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\Program II.genruntimeconfig.cache
+E:\Titip Dana\Nawadata Solutions\Program II\net-buses\obj\Debug\net7.0\ref\Program II.dll
